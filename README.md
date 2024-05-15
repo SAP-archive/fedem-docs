@@ -6,6 +6,10 @@
   This file is part of FEDEM - https://openfedem.org
 --->
 
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat) 
+
+This public repository is read-only and no longer maintained.
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/fedem-docs)](https://api.reuse.software/info/github.com/SAP/fedem-docs)
 
 # FEDEM end user documention
